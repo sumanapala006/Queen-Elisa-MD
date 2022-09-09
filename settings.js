@@ -32,25 +32,57 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.owner = ['94771263209'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94771263209'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94771263209'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = 'ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ🍁' // Your name ඔබේ නම 
+global.botnma = '😈 ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ 😈' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = 'ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ🍃' //ownernama,ownername
+global.packname = 'ᴅᴜʟᴀ💫 Sticker' // Sticker package name 
+global.author = 'ᴅᴜʟᴀᴋꜱʜᴀɴᴀ_ʙᴏᴛ' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `*https://chat.whatsapp.com/JVHRTEV9KcfEopHAWuniCL*
+
+*🍃 ʜɪ ᴍᴀɢᴇ ʏᴀʟᴜᴡᴀɴᴇ*
+
+*🍃 ඔබට අවශ්‍ය  ඕනැම සින්දුවක් ᴅᴏᴡɴʟᴏᴀᴅ කර ගැනීමට හැකියාවක් ඇත* 
+
+*🍃 තවද ඔබට අවශ්‍ය  ᴠɪᴅᴇᴏ┋ꜱᴏɴɢ┋ꜰɪʟʟ┋ꜱᴛɪᴋᴀʀ┋ɴᴇᴡ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ  යන ඔබට අවශ්‍ය  සියලුම දේවල් ᴅᴏᴡɴʟᴏᴀᴅ කිරීමට හැකියාව ඇත* 
+
+*සිංදුවක් ගැනීම සදහා 🍂*
+
+🌼 ┋ උදා  *.ꜱᴏɴɢ මන්දාරම් කතාවේ* 
+
+විඩියෝවක් ᴅᴏᴡɴʟᴏᴀᴅ කිරීම සදහා🍂
+
+🌼 ┋ උදා   *.ᴠɪᴅᴇᴏ ᴄᴀʀ ᴠɪᴅᴇᴏ*
+
+*මේ වගේ ක්‍රියා කරොත් අපගෙන් ඔබට අවශ්‍ය  සිංදුවක් විඩියෝවක් ᴅᴏᴡɴʟᴏᴀᴅ කර ගත හැක වැඩිදුර තොරතුරු  සදහා අප ɢʀᴏᴜᴘ එකේ ᴀᴅᴍɪɴ සමග ක්‍රිය ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+global.alivelogo = `https://i.ibb.co/yhCF8WP/94-77-126-3209-20220908-223428.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome =*https://chat.whatsapp.com/JVHRTEV9KcfEopHAWuniCL*
+
+*🍃 ʜɪ ᴍᴀɢᴇ ʏᴀʟᴜᴡᴀɴᴇ*
+
+*🍃 ඔබට අවශ්‍ය  ඕනැම සින්දුවක් ᴅᴏᴡɴʟᴏᴀᴅ කර ගැනීමට හැකියාවක් ඇත* 
+
+*🍃 තවද ඔබට අවශ්‍ය  ᴠɪᴅᴇᴏ┋ꜱᴏɴɢ┋ꜰɪʟʟ┋ꜱᴛɪᴋᴀʀ┋ɴᴇᴡ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ  යන ඔබට අවශ්‍ය  සියලුම දේවල් ᴅᴏᴡɴʟᴏᴀᴅ කිරීමට හැකියාව ඇත* 
+
+*සිංදුවක් ගැනීම සදහා 🍂*
+
+🌼 ┋ උදා  *.ꜱᴏɴɢ මන්දාරම් කතාවේ* 
+
+විඩියෝවක් ᴅᴏᴡɴʟᴏᴀᴅ කිරීම සදහා🍂
+
+🌼 ┋ උදා   *.ᴠɪᴅᴇᴏ ᴄᴀʀ ᴠɪᴅᴇᴏ*
+
+*මේ වගේ ක්‍රියා කරොත් අපගෙන් ඔබට අවශ්‍ය  සිංදුවක් විඩියෝවක් ᴅᴏᴡɴʟᴏᴀᴅ කර ගත හැක වැඩිදුර තොරතුරු  සදහා අප ɢʀᴏᴜᴘ එකේ ᴀᴅᴍɪɴ සමග ක්‍රිය `
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
